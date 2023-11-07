@@ -42,7 +42,7 @@ body {
   }
   h3 {
     position: absolute;
-    top: 54%;
+    top: 56%;
     left: 44%;
     transform: translate(-50%, -50%);
     color: #918484;
@@ -54,12 +54,12 @@ body {
   }
   h6 {
     position: absolute;
-    top: 85%;
+    top: 90%;
     left: 44%;
     transform: translate(-50%, -50%);
     color: #c71010;
     font-family: "Source Sans Pro";
-    font-size: 1em;
+    font-size: 0.1em;
     font-weight: 900;
     -webkit-user-select: none;
     user-select: none;
