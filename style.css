@@ -52,3 +52,15 @@ body {
     -webkit-user-select: none;
     user-select: none;
   }
+  h6 {
+    position: absolute;
+    top: 85%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    color: #c71010;
+    font-family: "Source Sans Pro";
+    font-size: 1em;
+    font-weight: 900;
+    -webkit-user-select: none;
+    user-select: none;
+  }
